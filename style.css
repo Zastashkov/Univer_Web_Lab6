@@ -1,0 +1,46 @@
+body{
+    font-family:"Roboto Light", sans-serif;
+    background-image: url(pics/bg.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    font-size:18px;
+    text-align:center;
+    height: 100%;
+}
+header{
+    background-color: rgba(147, 112, 219, 0.5);
+    color:beige;
+    /*text-shadow: 1.5px 2px black;*/
+    padding: 1%;
+    height: 100%;
+    width: 100%;
+}
+.box{
+    background-color: rgba(32, 32, 214, 0.223);
+    padding-left: 24%;
+    color:beige;
+    /*text-shadow: 2px 2px black;*/
+}
+.power{
+    position: absolute;
+    padding-left: 12%;
+}
+.NOD{
+    position: absolute;
+    padding-left: 30%;
+}
+.minvalue{
+    position: absolute;
+    top:60%;
+    padding-left: 9.6%;
+}
+.pluralization{
+    position: fixed;
+    top:42%;
+    padding-left: 32.3%;
+}
+.fibonach{
+    position: absolute;
+    top:42%;
+    padding-left: 8.5%;
+}
